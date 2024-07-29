@@ -69,3 +69,26 @@ li {
     margin: 40px;
     font-size: 15px;
 }
+
+.content-container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: justify;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.content-container img{
+    width: 40%;
+    border-radius: 15px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.text-r{
+    background-color: #dadada;
+    padding: 10px;
+    margin: 20px;
+}
